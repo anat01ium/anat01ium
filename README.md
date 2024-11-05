@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/-GNU%2FLinux-black?logo=linux)
 
 ### ⚙️ GitHub Analytics
-<p align="left">
+<p align="center">
   <a href="https://github.com/anat01ium">
-    <img height=200 align="center" src="https://github-readme-stats-anat01iums-projects.vercel.app/api?username=anat01ium&include_all_commits=true&show_icons=true&theme=transparent" />
-    <img height=200 align="center" src="https://github-readme-stats-anat01iums-projects.vercel.app/api/top-langs/?username=anat01ium&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&layout=compact" />
+    <img height=180em align="center" src="https://github-readme-stats-anat01iums-projects.vercel.app/api?username=anat01ium&include_all_commits=true&show_icons=true&theme=transparent" />
+    <img height=180em align="center" src="https://github-readme-stats-anat01iums-projects.vercel.app/api/top-langs/?username=anat01ium&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&layout=compact" />
   </a>
 </p>
