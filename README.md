@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/anat01ium">
-    <img height=200em align="center" src="https://github-readme-stats-anat01iums-projects.vercel.app/api?username=anat01ium&include_all_commits=true&show_icons=true&theme=transparent&border_color=2f353d" />
-    <img height=200em align="center" src="https://github-readme-stats-anat01iums-projects.vercel.app/api/top-langs/?username=anat01ium&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&border_color=2f353d" />
+    <img height=196em src="https://github-readme-stats-anat01iums-projects.vercel.app/api?username=anat01ium&include_all_commits=true&show_icons=true&theme=transparent&border_color=2f353d" />
+    <img height=196em src="https://github-readme-stats-anat01iums-projects.vercel.app/api/top-langs/?username=anat01ium&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact&border_color=2f353d" />
   </a>
 </p>
