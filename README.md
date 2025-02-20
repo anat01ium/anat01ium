@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
 ![SSH](https://img.shields.io/badge/-SSH-black)
 ![DevTools](https://img.shields.io/badge/-DevTools-black?logo=googlechrome)
-![VSCode](https://img.shields.io/badge/-VSCode-black)
 ![Vim](https://img.shields.io/badge/-Vim-black?logo=vim&logoColor=%23019733)
 ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma)
 ![Gimp](https://img.shields.io/badge/-Gimp-black?logo=gimp&logoColor=%235C5543)
